@@ -158,4 +158,22 @@ position: absolute;
   background-color: white;
 }
 
+.button {
+   
+  text-align: center;
+  margin:0 auto;
+    color:white;
+    font-size: 18px;
+    background-color:red;
+    text-align: center;
+    padding:10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 8px red;
+    
+    animation: pulse-blue 1.5s infinite;
+   
+
+}
+
  }
+
