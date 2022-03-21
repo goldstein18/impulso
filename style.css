@@ -139,12 +139,18 @@ position: absolute;
     src: local('Optima'), url('OPTIMA.woff') format('woff');
     }
 
-    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 
 
 @media (max-width:500px) {
 
-
+  header #title {
+    font-family: 'Optima';
+    font-size: 70px;
+    text-shadow: 0px 0px 0px white;
+  
+    
+}
   .back {
     
     width:100%;
