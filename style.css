@@ -148,7 +148,8 @@ position: absolute;
     font-family: 'Optima';
     font-size: 70px;
     text-shadow: 0px 0px 0px white;
-  
+  display:inline;
+    animation: pulse-title 1.5s infinite;
     
 }
   .back {
